@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azure-glades
 - 👀 I’m interested in ... astrophysics/computing/electronics
-- 🌱 I’m currently learning ... MATLAB/Python/C++/Rust
+- 🌱 I’m currently learning ... MATLAB/Python/Java/Rust
 - 💞️ I contribute to projects that peak my interests
 - 📫 How to reach me ... hegderutvik@gmail.com
 - 😄 Pronouns: ... He/Him
