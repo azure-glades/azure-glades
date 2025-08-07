@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @azure-glades
 - 👀 I’m interested in ... astrophysics/computing/electronics
-- 🌱 I’m currently learning ... C/Python/Java/MATLAB/Rust
-- 💞️ I contribute to projects that peak my interests
+- 🌱 I’m currently learning ... Sprindboot, AWS Cloud and Systems Programming
+- 💞️ I contribute to projects that are mostly cloud or systems programming
 - 📫 How to reach me ... hegderutvik@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm an avid quizzer! I can hold a conversation on almost anything
+- ⚡ Fun fact: ... I'm an avid quizzer!
 
 <!---
 azure-glades/azure-glades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
