@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azure-glades
 - 👀 I’m interested in ... astrophysics/computing/electronics
-- 🌱 I’m currently learning ... Sprindboot, AWS Cloud and Systems Programming
-- 💞️ I contribute to projects that are mostly cloud or systems programming
+- 🌱 I’m currently learning ... a lot of things.
+- 💞️ I contribute to projects that interest me.
 - 📫 How to reach me ... hegderutvik@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm an avid quizzer!
